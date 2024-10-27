@@ -15,3 +15,11 @@ https://github.com/sahilkhoslaa/AudioToSignLanguageConverter/issues/5
 Sign Studio: This platform specializes in creating sign language videos for websites and other digital content. While not directly translating audio, it provides a valuable tool for making content accessible to the Deaf community.
 
 https://www.signapse.ai/
+
+### Other relevant websites for competition :
+
+https://www.signfordeaf.com/
+
+https://slait.ai/
+
+https://signer.ai/
